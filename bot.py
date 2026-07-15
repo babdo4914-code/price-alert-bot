@@ -30,6 +30,7 @@ logger = logging.getLogger(__name__)
 FOREX_SYMBOLS = {
     "EURUSD", "GBPUSD", "USDJPY", "USDCHF", "AUDUSD",
     "USDCAD", "NZDUSD", "EURGBP", "EURJPY", "GBPJPY",
+    "XAUUSD", "XAGUSD",
 }
 
 
